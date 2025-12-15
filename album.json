@@ -3,13 +3,13 @@
   "albums": [
     {
       "name": "Kenangan SMA",
-      "base_url": "https://raw.githubusercontent.com/username/repo/main/album1",
+      "base_url": "https://github.com/RaldoMTC/Kenangan/tree/main/album1",
       "photo_count": 3,
       "sound": "music1"
     },
     {
       "name": "Teman Nongkrong",
-      "base_url": "https://raw.githubusercontent.com/username/repo/main/album2",
+      "base_url": "https://github.com/RaldoMTC/Kenangan/tree/main/album2",
       "photo_count": 2,
       "sound": "music2"
     }
